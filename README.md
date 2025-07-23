@@ -2,9 +2,9 @@
 
 # Advanced NLP for Real-World Applications
 
-This repository showcases advanced Natural Language Processing (NLP) techniques applied to real-world sustainability data. The project covers end-to-end pipelines for sentiment analysis, topic modeling, named entity recognition, and text summarization using state-of-the-art models like RoBERTa and spaCy.
+This repository showcases advanced Natural Language Processing (NLP) techniques applied to real-world data. The project covers end-to-end pipelines for sentiment analysis, topic modeling, named entity recognition, and text summarization using state-of-the-art models like RoBERTa.
 
-🔗 **Project Repository:** [https://github.com/initnegi/Advanced-NLP](https://github.com/initnegi/Advanced-NLP)
+**Project Repository:** [https://github.com/initnegi/Advanced-NLP](https://github.com/initnegi/Advanced-NLP)
 
 ## Tasks Implemented
 
