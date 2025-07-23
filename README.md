@@ -30,6 +30,5 @@ This repository showcases advanced Natural Language Processing (NLP) techniques 
 ```bash
 git clone https://github.com/initnegi/Advanced-NLP
 cd Advanced-NLP
-pip install -r requirements.txt
 jupyter notebook
 ```
