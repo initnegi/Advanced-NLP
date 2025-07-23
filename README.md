@@ -1,5 +1,3 @@
----
-
 # Advanced NLP for Real-World Applications
 
 This repository showcases advanced Natural Language Processing (NLP) techniques applied to real-world data. The project covers end-to-end pipelines for sentiment analysis, topic modeling, named entity recognition, and text summarization using state-of-the-art models like RoBERTa.
